@@ -1,16 +1,25 @@
-# chat_app_flutter_socketio
+# Project Name
 
-A new Flutter project.
+Description of your project.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+|--------------|--------------|--------------|
+| ![Screenshot 1](https://github.com/nptruong01/08CNPM_Nhom5_CuoiKy/assets/113322089/6a1394d0-2670-4b14-8a61-88ae3ff6fa3d) | ![Screenshot 2](https://github.com/nptruong01/08CNPM_Nhom5_CuoiKy/assets/113322089/3ac83071-87a6-49f3-9c3d-9f51252efd0f) | ![Screenshot 3](https://github.com/nptruong01/08CNPM_Nhom5_CuoiKy/assets/113322089/e5371028-8fb1-46d0-8107-cf70ad889907) |
+| ![Screenshot 4](https://github.com/nptruong01/08CNPM_Nhom5_CuoiKy/assets/113322089/b265c5d5-aa34-4f8d-9f72-cc2a429eb042) | ![Screenshot 5](https://github.com/nptruong01/08CNPM_Nhom5_CuoiKy/assets/113322089/4c6ec822-b5b4-4ebe-bf88-aabbfc582a9a) | ![Screenshot 6](https://github.com/nptruong01/08CNPM_Nhom5_CuoiKy/assets/113322089/03f5720e-26e6-43bd-98ae-40fbac9890eb) |
+| ![Screenshot 7](https://github.com/nptruong01/08CNPM_Nhom5_CuoiKy/assets/113322089/921461bd-fcd9-4869-bb4f-64cbb8a6bcd9) | ![Screenshot 8](https://github.com/nptruong01/08CNPM_Nhom5_CuoiKy/assets/113322089/87c38535-f3f2-41ed-a703-0a1bada6aaad) | ![Screenshot 9](https://github.com/nptruong01/08CNPM_Nhom5_CuoiKy/assets/113322089/f3169bd7-c12c-4d36-9976-c7fc8ad45868) |
+| ![Screenshot 10](https://github.com/nptruong01/08CNPM_Nhom5_CuoiKy/assets/113322089/80281dc6-1d1c-4da1-a017-54f68cafbd30) | ![Screenshot 11](https://github.com/nptruong01/08CNPM_Nhom5_CuoiKy/assets/113322089/3b3b9f98-babd-482f-9a32-bd90e899434d) | ![Screenshot 12](https://github.com/nptruong01/08CNPM_Nhom5_CuoiKy/assets/113322089/b30d59a9-95e1-42a6-9012-38a51a6c1072) |
+| ![Screenshot 13](https://github.com/nptruong01/08CNPM_Nhom5_CuoiKy/assets/113322089/34601ca5-0564-49a2-ba66-35bc62113fd5) | | |
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Instructions for installation.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+
+Usage instructions.
+
+## License
+
+This project is licensed under the [License Name](LICENSE).
