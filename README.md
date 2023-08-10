@@ -32,6 +32,4 @@ To run the app locally, follow these steps:
 - Flutter for the front-end development
 - Socket.IO for real-time communication
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
