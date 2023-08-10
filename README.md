@@ -1,6 +1,6 @@
-# Project Name
+# ChatApp_Flutter_Socket
 
-Description of your project.
+This is a Flutter chat application that utilizes Socket.IO for real-time communication.
 
 ## Screenshots
 
@@ -14,12 +14,24 @@ Description of your project.
 
 ## Installation
 
-Instructions for installation.
+To run the app locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/nptruong01/08CNPM_Nhom5_CuoiKy.git`
+2. Navigate to the project directory: `cd 08CNPM_Nhom5_CuoiKy`
+3. Install dependencies: `flutter pub get`
+4. Run the app: `flutter run`
 
 ## Usage
 
-Usage instructions.
+1. Launch the app on your device or emulator.
+2. Choose a chat room you want to join.
+3. Start sending and receiving messages in real-time.
+
+## Technologies Used
+
+- Flutter for the front-end development
+- Socket.IO for real-time communication
 
 ## License
 
-This project is licensed under the [License Name](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
